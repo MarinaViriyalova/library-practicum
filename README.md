@@ -7,3 +7,4 @@ Learning project - landing page
 - HTML
 - CSS
 - FLEXBOX
+- BEM
