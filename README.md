@@ -8,3 +8,4 @@ Learning project - landing page
 - CSS
 - FLEXBOX
 - BEM
+lalala
